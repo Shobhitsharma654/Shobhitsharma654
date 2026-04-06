@@ -2,6 +2,10 @@
 <h3 align="center">A passionate Web Developer from India 🇮🇳</h3>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shobhitsharma654&label=Profile%20views&color=blue&style=for-the-badge" alt="profile views" />
+</p>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/shobhit-sharma-873984356" target="_blank">
     
   </a>
