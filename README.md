@@ -52,7 +52,7 @@
 
 | Project | Description | Live |
 |--------|------------|------|
-| **Viva** | AI voice receptionist for clinics | 🔗 Coming Soon |
+| [Virtual AI Assistant](https://github.com/Shobhitsharma654/Virtual-AI-Assistant) | An AI-powered voice assistant that listens, processes commands, and performs actions like search, YouTube, and more. | [Live](https://virtualaiassistant-frontend.vercel.app/) |
 | **Spoon & Fork** | Food recipe platform | 🔗 Coming Soon |
 | **SAKSHAM** | AI-powered course generator | 🔗 Coming Soon |
 | **The Silk Route** | E-commerce platform | 🔗 Coming Soon |
