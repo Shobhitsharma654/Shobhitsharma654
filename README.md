@@ -50,12 +50,7 @@
 | Project | Description | Live |
 |--------|------------|------|
 | [Virtual AI Assistant](https://virtualaiassistant-frontend.vercel.app/) | An AI-powered voice assistant. | [Live](https://virtualaiassistant-frontend.vercel.app/) |
-| **Spoon & Fork** | Food recipe platform | 🔗 Coming Soon |
-| **SAKSHAM** | AI-powered course generator | 🔗 Coming Soon |
-| **The Silk Route** | E-commerce platform | 🔗 Coming Soon |
-| **Syntaxy** | AI chatbot | 🔗 Coming Soon |
-| **Zayka** | Food blog | 🔗 Coming Soon |
-| **Falcon AI** | AI resume builder | 🔗 Coming Soon |
+
 
 ---
 
