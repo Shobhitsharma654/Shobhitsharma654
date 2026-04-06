@@ -5,9 +5,8 @@
   <img src="https://komarev.com/ghpvc/?username=Shobhitsharma654&label=Profile%20views&color=blue&style=for-the-badge" alt="profile views" />
 </p>
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/shobhit-sharma-873984356" target="_blank">
-    
   </a>
 </p>
 
