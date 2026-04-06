@@ -37,7 +37,7 @@
 
 ### 🗄️ Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
-![Convex](https://img.shields.io/badge/Convex-black?style=for-the-badge)
+
 
 ### 🚀 Deployment
 ![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel)
