@@ -10,11 +10,11 @@
 ---
 
 ## 🌟 About Me
-- 🔭 Currently working on **AIPowered** – AI-powered course generator  
-- 🌱 Exploring **The World of Tech 🌍**  
+- 🔭 Currently working on **AIPoweredDoctor Appointment** – AI-powered course generator  
+- 🌱 Exploring technology to build scalable solutions for real-world challenges.
 - 💬 Ask me about **Web Development (MERN Stack)**  
-- 📫 Reach me at: **Uzzwal7505@gmail.com**  
-- ⚡ Fun fact: I love listening to music while coding 🎧  
+- 📫 Reach me at: **shobhitss652@gmail.com**  
+- ⚡ Fun fact: I’m passionate about building impactful tech and aiming to create something big in the future.  
 
 ---
 
@@ -62,7 +62,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uzzwalsharma&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shobhitsharma&show_icons=true&theme=radical" />
 </p>
 
 <p align="center">
@@ -81,8 +81,8 @@
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/ujjwal-sharma-3a1395279  
-- 📧 Email: Uzzwal7505@gmail.com  
+- 💼 LinkedIn:https://www.linkedin.com/in/shobhit-sharma-873984356  
+- 📧 Email: shobhitss652@gmail.com 
 
 ---
 
