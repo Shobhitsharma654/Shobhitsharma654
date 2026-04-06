@@ -10,7 +10,7 @@
 ---
 
 ## 🌟 About Me
-- 🔭 Currently working on **AIPoweredDoctor Appointment** – AI-powered course generator  
+- 🔭 Currently working on **AIPoweredDoctor Appointment** project  
 - 🌱 Exploring technology to build scalable solutions for real-world challenges.
 - 💬 Ask me about **Web Development (MERN Stack)**  
 - 📫 Reach me at: **shobhitss652@gmail.com**  
