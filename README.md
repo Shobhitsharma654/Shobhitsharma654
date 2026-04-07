@@ -50,6 +50,7 @@
 | Project | Description | Live |
 |--------|------------|------|
 | [Virtual AI Assistant](https://virtualaiassistant-frontend.vercel.app/) | An AI-powered voice assistant. | [Live](https://virtualaiassistant-frontend.vercel.app/) |
+| [Interview PrepAI](https://ai-interviewfrontend-glzt.vercel.app/) | An AI-powered interview preparation platform.| [Live](https://ai-interviewfrontend-glzt.vercel.app/) |
 
 
 ---
