@@ -61,9 +61,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shobhitsharma654&theme=radical" />
 </p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Shobhitsharma654&theme=radical&border_radius=10" />
-</p>
 ---
 
 ## 📈 Activity Graph
