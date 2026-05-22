@@ -52,6 +52,8 @@
 | [Virtual AI Assistant](https://virtualaiassistant-frontend.vercel.app/) | An AI-powered voice assistant. | [Live](https://virtualaiassistant-frontend.vercel.app/) |
 | [Edemy-Learning Platform](https://react-project-puce-pi.vercel.app/) | A Learning Platform website. | [Live](https://react-project-puce-pi.vercel.app/) |
 | [Interview PrepAI](https://ai-interviewfrontend-glzt.vercel.app/) | An AI-powered interview preparation platform.| [Live](https://ai-interviewfrontend-glzt.vercel.app/) |
+| [OneCart](https://ecommerce-frontend-5keb.vercel.app/) | Full-stack online clothing shopping platform.| [Live](https://ecommerce-frontend-5keb.vercel.app/) |
+
 
 
 ---
