@@ -8,9 +8,6 @@
 </p>
 
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=shobhitsharma&label=Profile%20Views&color=0e75b6&style=flat" alt="Shobhit Sharma" />
-</p>
 
 ---
 
