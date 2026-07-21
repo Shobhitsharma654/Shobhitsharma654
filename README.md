@@ -13,7 +13,6 @@
 ---
 
 ## 🐍 Contribution Snake
-![snake gif](https://github.com/arunpatwa/arunpatwa/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -28,6 +27,8 @@
 
 </td>
 
+<td width="50%" align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shobhitsharma654&theme=radical" />
 </tr>
 </table>
 
@@ -70,14 +71,7 @@
 
 
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shobhitsharma654&theme=radical" />
-</p>
----
 
 ## 📈 Activity Graph
 
