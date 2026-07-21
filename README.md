@@ -1,24 +1,36 @@
-<h1 align="center">Hi, I'm Shobhit Sharma</h1>
-<h3 align="center">A passionate Web Developer from India 🇮🇳</h3>
-
-
-<p>
-  <a href="https://www.linkedin.com/in/shobhit-sharma-873984356" target="_blank">
-  </a>
-</p>
-
-
+<h1 align="center">Hi👋, I'm Shobhit Sharma</h1>
+<h3 align="center">A passionate Software Engineer</h3>
 
 ---
 
 ## 🌟 About Me
-- 🔭 Currently working on **AIPoweredDoctor Appointment** project  
+- 💻 Software Engineer passionate about **Frontend Engineering and Scalable Architecture**
 - 🌱 Exploring technology to build scalable solutions for real-world challenges.
 - 💬 Ask me about **Web Development (MERN Stack)**  
-- 📫 Reach me at: **shobhitss652@gmail.com**  
+- 🤖 Interested in **AI-powered applications and system design**
 - ⚡ Fun fact: I’m passionate about building impactful tech and aiming to create something big in the future.  
 
 ---
+
+## 🐍 Contribution Snake
+![snake gif](https://github.com/arunpatwa/arunpatwa/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+### 📊 Contribution Graph
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shobhitsharma654&theme=tokyonight"/>
+
+</td>
+
+</tr>
+</table>
+
 
 ## 🛠️ Tech Stack
 
