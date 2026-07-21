@@ -79,8 +79,6 @@
 
 
 
-
-
 ## 📈 Activity Graph
 
 <p align="center">
@@ -91,14 +89,13 @@
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn:https://www.linkedin.com/in/shobhit-sharma-873984356  
-- 📧 Email: shobhitss652@gmail.com 
+<p align="left">
+<a href=""><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="30" width="40"/></a>
+<a href="https://linkedin.com/in/shobhit-sharma-873984356"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="40"/></a>
+<a href=""><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" height="30" width="40"/></a>
+<a href=""><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" height="30" width="40"/></a>
+</p>
 
 ---
 
-## 🌟 Quote
-
-> ✨ *"Innovation is the bridge between ideas and success!"*  
-
----
 
