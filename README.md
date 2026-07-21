@@ -19,7 +19,7 @@
 <table>
 <tr>
 
-<td width="60%" align="center">
+<td width="50%" align="center">
 
 ### 📊 Contribution Graph
 
@@ -28,8 +28,9 @@
 </td>
 
 <td width="50%" align="center">
-### 📊 GitHub Stats
   
+ 📊 GitHub Stats
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shobhitsharma654&theme=radical" />
 </tr>
 </table>
