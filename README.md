@@ -27,7 +27,7 @@
 
 </td>
 
-<td width="50%" align="center">
+<td width="60%" align="center">
   
  📊 GitHub Stats
 
@@ -36,15 +36,17 @@
 </table>
 
 
-## 🛠️ Tech Stack
+# 🚀 Tech Stack
 
-### 💻 Programming & Markup
-![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 
 ### ⚛️ Frontend
+![HTML](https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3)
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
 ![Tailwind](https://img.shields.io/badge/Tailwind-blue?style=for-the-badge&logo=tailwindcss)
 ![Framer Motion](https://img.shields.io/badge/FramerMotion-purple?style=for-the-badge)
@@ -52,9 +54,12 @@
 ### 🔧 Backend
 ![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-gray?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![REST](https://img.shields.io/badge/REST-API-blue?style=for-the-badge)
 
 ### 🗄️ Database
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 ### 🚀 Deployment
