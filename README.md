@@ -23,7 +23,7 @@
 
 ### 📊 Contribution Graph
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shobhit4a&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shobhitsharma654&theme=tokyonight"/>
 
 </td>
 
@@ -82,7 +82,7 @@
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shobhit4a&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shobhitsharma654&theme=react-dark" />
 </p>
 
 ---
