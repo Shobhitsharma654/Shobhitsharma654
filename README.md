@@ -23,7 +23,7 @@
 
 ### 📊 Contribution Graph
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shobhitsharma654&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shobhit4a&theme=tokyonight"/>
 
 </td>
 
@@ -31,7 +31,7 @@
   
  📊 GitHub Stats
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shobhitsharma654&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shobhit4a&theme=radical" />
 </tr>
 </table>
 
