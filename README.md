@@ -31,7 +31,7 @@
   
  📊 GitHub Stats
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shobhit4a&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shobhitsharma654&theme=radical" />
 </tr>
 </table>
 
