@@ -92,7 +92,7 @@
 <p align="left">
 <a href=""><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="30" width="40"/></a>
 <a href="https://linkedin.com/in/shobhit-sharma-873984356"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="40"/></a>
-<a href=""><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" height="30" width="40"/></a>
+<a href="https://leetcode.com/u/shobhit154"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" height="30" width="40"/></a>
 <a href=""><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" height="30" width="40"/></a>
 </p>
 
