@@ -7,7 +7,7 @@
 - 💻 Software Engineer passionate about **Frontend Engineering and Scalable Architecture**.
 - 🌱 Exploring technology to build scalable solutions for real-world challenges.
 - 💬 Ask me about **Web Development (MERN Stack)**. 
-- 🤖 Interested in **AI-powered applications and system design**
+- 🤖 Interested in **AI-Full Stack applications and system design**
 - ⚡ Fun fact: I’m passionate about building impactful tech and aiming to create something big in the future.  
 
 ---
