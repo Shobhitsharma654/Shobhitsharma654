@@ -88,9 +88,9 @@
 </p>
 <div align="center">
 
-  <img height="175em" src="https://github-readme-stats-fast.vercel.app/api?username=shobhit654&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" />
+  <img height="175em" src="https://github-readme-stats-fast.vercel.app/api?username=shobhitsharma654&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" />
 
-  <img height="175em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shobhit654&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" />
+  <img height="175em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shobhitsharma654&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" />
 
 </div>
 
