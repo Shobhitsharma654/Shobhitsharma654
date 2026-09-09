@@ -87,7 +87,7 @@
 <div align="center">
 
 
-  <img width="100%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shobhitsharma654&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" />
+  <img width="40%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shobhitsharma654&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" />
 
 </div>
 
