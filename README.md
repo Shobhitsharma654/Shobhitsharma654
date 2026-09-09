@@ -19,7 +19,7 @@
 <table>
 <tr>
 
-<td width="50%" align="center">
+<td width="60%"  align="center">
 
 ### 📊 Contribution Graph
 
@@ -27,7 +27,7 @@
 
 </td>
 
-<td width="60%" align="center">
+<td width="40%" align="center">
   
  📊 GitHub Stats
 
