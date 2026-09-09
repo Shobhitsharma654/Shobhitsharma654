@@ -84,7 +84,7 @@
 ## 📈 Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shobhitsharma654&theme=react-dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shobhitsharma654&theme=react-dark" />
 </p>
 <div align="center">
 
