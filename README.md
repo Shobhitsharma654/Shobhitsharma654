@@ -11,29 +11,13 @@
 - ⚡ Fun fact: I’m passionate about building impactful tech and aiming to create something big in the future.  
 
 ---
-
-## 🐍 Contribution 
-
----
-
-<table>
-<tr>
-
-<td width="60%"  align="center">
-
-### 📊 Contribution Graph
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shobhitsharma654&theme=tokyonight"/>
-
-</td>
-
-<td width="40%" align="center">
   
- 📊 GitHub Stats
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shobhitsharma654&theme=radical" />
-</tr>
+## 🐍 Contribution Graph
+<div align="center" width="100%" >
+<table>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shobhitsharma654&theme=tokyonight"/>
 </table>
+</div>
 
 
 # 🚀 Tech Stack
@@ -82,15 +66,18 @@
 
 
 ## 📈 Activity Graph
-
-
 <div align="center">
-
-
-  <img width="40%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shobhitsharma654&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8" />
-
+  <img
+    width="500"
+    height="200"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=shobhitsharma654&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=8"
+  />
+  <img
+    width="500"
+    height="200"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Shobhitsharma654&theme=radical"
+  />
 </div>
-
 ---
 
 ## 🌐 Connect With Me
